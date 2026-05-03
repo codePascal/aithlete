@@ -1,0 +1,6 @@
+[submodule "backend/vendor/trainingpeaks-mcp"]
+	path = backend/vendor/trainingpeaks-mcp
+	url = https://github.com/codePascal/trainingpeaks-mcp
+[submodule "backend/vendor/hevy-mcp"]
+	path = backend/vendor/hevy-mcp
+	url = https://github.com/codePascal/hevy-mcp
