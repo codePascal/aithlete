@@ -24,6 +24,9 @@ pip-log.txt
 pip-delete-this-directory.txt
 .installed.cfg
 
+# generated API docs
+backend/docs/
+
 # type checkers / linters
 .mypy_cache/
 .ruff_cache/
