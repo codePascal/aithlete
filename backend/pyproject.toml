@@ -17,6 +17,7 @@ pydantic-settings = ">=2.2.0"
 mcp = ">=1.0.0"
 keyring = ">=25.0.0"
 cryptography = ">=42.0.0"
+onepassword-sdk = "=0.4.1b1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = ">=8.2.0"
